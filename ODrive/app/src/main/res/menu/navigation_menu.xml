@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_dashboard"
+        android:title="@string/title_dashboard"
+        android:icon="@drawable/selector_dashboard"/>
+    <item
+        android:id="@+id/menu_files"
+        android:title="@string/title_my_drive"
+        android:icon="@drawable/selector_mydrive"/>
+    <item
+        android:id="@+id/menu_profile"
+        android:title="@string/title_profile"
+        android:icon="@drawable/selector_profile"/>
+
+</menu>

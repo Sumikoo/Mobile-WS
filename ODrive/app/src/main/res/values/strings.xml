@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ODrive</string>
+    <string name="txt_ss_owner">by Fidah-Helina</string>
+    <string name="txt_sgn_desc">Great things are not done by impulse, but a series of small things brought together</string>
+    <string name="forgot_password">Forgot Password ?</string>
+    <string name="back"><![CDATA[< Back]]></string>
+    <string name="txt_footer_ask">Do not have an account ?</string>
+    <string name="txt_input_fname">Fullname</string>
+    <string name="txt_input_mail">Email</string>
+    <string name="txt_input_pass">Password</string>
+    <string name="txt_input_cpass">Confirm Password</string>
+    <string name="txt_desc_sgu">Innovation distinguishes between a leader and a follower</string>
+    <string name="txt_signin">Sign In</string>
+    <string name="txt_signup">Sign Up</string>
+    <string name="txt_btn_capture">Take a Picture</string>
+    <string name="txt_btn_continue">CONTINUE</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_my_drive">My Drive</string>
+    <string name="title_profile">Profile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="predict">Predict</string>
+</resources>
